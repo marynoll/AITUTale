@@ -1,9 +1,7 @@
 {
-    "launch_count": 6,
+    "launch_count": 1,
     "player_lv": 1,
     "player_hp": 20,
-    "inventory": [
-        "Секретные файлы"
-    ],
-    "has_saved": true
+    "inventory": [],
+    "has_saved": false
 }
