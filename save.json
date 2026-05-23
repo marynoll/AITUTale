@@ -1,7 +1,9 @@
 {
-    "launch_count": 1,
+    "launch_count": 7,
     "player_lv": 1,
     "player_hp": 20,
     "inventory": [],
-    "has_saved": false
+    "has_saved": false,
+    "baha_defeated": false,
+    "special_locker_opened": false
 }
